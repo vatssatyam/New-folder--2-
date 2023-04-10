@@ -1,0 +1,180 @@
+
+    .container1 ,.container2
+    {
+        display:flex
+    }
+
+    body{
+        border: 15px groove green;
+        background-image:url(./marvel-comics-iron-man-wallpaper-preview.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0px;
+    }
+.leftbox{
+border: 5px solid red;
+background-color: rgb(0, 4, 7);
+height: 100px;
+color: aliceblue;
+text-align: center;
+width: 390px;
+
+
+margin: 20px;
+padding-top: 5px;
+padding-bottom: 60px;
+
+font-style: italic;
+font-size: 15px;
+border-radius: 25px;
+
+}
+.middlebox{
+    border: 5px solid red;
+    background-color: rgb(0, 4, 7);
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+    width: 390px;
+    font-style: italic;
+
+    margin: 100px;
+    margin-left: -120px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    padding-left: 8px;
+    border-radius: 25px;
+}
+
+.rightbox{
+    border: 5px solid red;
+    background-color: rgb(0, 4, 7);
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+    width: 390px;
+    font-style: italic;
+
+    margin: 5px;
+    padding-bottom: 50px;
+    border-radius: 25px;
+
+}
+
+
+.circle{background-color: cadetblue;
+color: rgb(14, 10, 10);
+border: 10px solid rgb(132, 122, 122);
+border-color: rgb(23, 9, 9);
+height: 400px;
+background-position: center;
+ width: 400px;
+font-weight: bold;
+border-radius: 50%;
+margin-left: 30px;
+margin-top: 20px;
+margin-right: 30px;
+border: 10px solid rgb(132, 122, 122);
+text-decoration: underline;
+font-size: 15px;
+text-align: center;
+
+}
+.form{
+color: red;
+background-color: beige;
+border: 10px dashed red;
+text-align: center;
+margin-left: 100px;
+
+}
+.menu{
+    background-color: black;
+    color: white;
+    border: 10px solid red;
+    height: 100x;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-left:500px;
+    padding-left: 10px;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.container3{
+display: flex;
+text-align: center;
+justify-content: center;
+margin-top: 50px;
+}
+.container4{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+
+}
+
+.box1{
+background-color: aquamarine;
+border: 5px green solid;
+height: 250px;
+width: 400px;
+border-radius: 20px;
+margin-left: 20px;
+margin-right: 100px;
+}
+
+.box2{
+    background-color: aquamarine;
+    border: 5px green solid;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left:-50px;
+    margin-right: 50px;
+}
+.box3{
+    background-color: aquamarine;
+    border: 5px green solid;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.box4{
+    background-color: aquamarine;
+    border: 5px green solid;
+    height: 250px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+margin-right: 100px;
+}
+
+.box5{
+    background-color: aquamarine;
+    border: 5px green solid;
+    height:250px;
+    width:400px;
+    border-radius: 20px;
+    margin-left:-50px;
+    margin-right: 50px;
+}
+.box6{
+    background-color: aquamarine;
+    border: 5px green solid;
+    height: 300px;
+    width:400px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+
+}
+
+
